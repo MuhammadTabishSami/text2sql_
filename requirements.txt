@@ -1,0 +1,4 @@
+streamlit #front end
+google-generativeai
+python-dotenv
+streamlit
